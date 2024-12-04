@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronômetro</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div id="display">00:00:00.000</div>
+    
+    <div id="controles">
+        <button onclick="cronometro.iniciar()">Iniciar</button>
+        <button onclick="cronometro.parar()">Pausar</button>
+        <button onclick="cronometro.volta()">Volta</button>
+        <button onclick="cronometro.resetar()">Resetar</button>
+    </div>
+
+    <div id="voltas">
+        <h3>Histórico de Voltas</h3>
+        <ul id="listaVoltas"></ul>
+    </div>
+
+    <div id="estatisticas">
+        <h3>Estatísticas</h3>
+        <p id="totalVoltas">Total de Voltas: 0</p>
+        <p id="melhorVolta">Melhor Volta: -</p>
+        <p id="piorVolta">Pior Volta: -</p>
+        <p id="mediaVoltas">Média de Voltas: -</p>
+    </div>
+</body>
+<script src="./js/cronometro.js"></script>
+</html>
