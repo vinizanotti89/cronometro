@@ -27,6 +27,9 @@ Mas fui além como sempre:
 
 - Layout responsivo e fluido.
 
+🌟 Extra
+Quando vi o desafio, me lembrei das corridas que assistia no autódromo com meu pai e meus tios mecânicos. Sempre cronometrava os pilotos na mão e anotava em prancheta. A ideia de exportar os tempos nasceu dessa lembrança, como uma forma moderna e prática de guardar e analisar as voltas.
+
 🖼️ Prints do Projeto
 -Desktop Tema CLaro
 ![Desk_Claro](https://github.com/user-attachments/assets/025c911e-43ed-41a7-bee2-f03e6063474a)
