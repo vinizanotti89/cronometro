@@ -40,7 +40,11 @@ Mas fui além como sempre:
 -Mobile Tema Escuro
 ![Mobile_escuro](https://github.com/user-attachments/assets/25f73443-7cf2-434a-9d10-f003dda1d660)
 
+-Gravar Voltas com Contador
+<img width="1661" alt="contVoltas" src="https://github.com/user-attachments/assets/c3a0221c-49dc-453e-8ced-192fefd0cd83" />
+
 -Export 
+<img width="1664" alt="exportInformation" src="https://github.com/user-attachments/assets/10891a9f-ac8d-4f9b-baae-877322ce6d64" />
 
 
 💻 Tecnologias Utilizadas
@@ -51,9 +55,7 @@ CSS3
 JavaScript (nativo)
 
 🚀 Link do Projeto Publicado
-Cronômetro Online
-
-Repositório GitHub
+Link Projeto Online - https://cronometro-bay.vercel.app/
 
 📚 Aprendizados
 Gerenciamento de Temas: Implementação de troca dinâmica entre modos Claro e Escuro.
