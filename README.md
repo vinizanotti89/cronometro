@@ -48,6 +48,7 @@ Mas fui além como sempre:
 
 
 💻 Tecnologias Utilizadas
+
 HTML5
 
 CSS3
